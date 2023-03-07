@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fond.png</file>
+        <file>Plan de travail 1@3x.png</file>
+        <file>search.png</file>
+    </qresource>
+</RCC>
