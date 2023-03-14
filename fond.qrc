@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fond.jpg</file>
+        <file>../../Images/Logo.png</file>
+        <file>fond.png</file>
+        <file>fond2.png</file>
+        <file>Plan de travail 1@2x.png</file>
+        <file>Plan de travail 1@3x.png</file>
+        <file>../../../Downloads/MeDispatch Inverted Color 800x600.png</file>
+        <file>../../../Downloads/AI-file-600x450.png</file>
+        <file>../../../Downloads/AI-file-500x375.png</file>
+        <file>../../../Downloads/connectivity-icons-collection.zip</file>
+        <file>search.png</file>
+        <file>../../../Downloads/filter-icon-funnel-illustration-symbol-web-filtration-vector/1x/Plan de travail 16.png</file>
+    </qresource>
+</RCC>
